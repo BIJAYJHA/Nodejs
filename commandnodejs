@@ -1,0 +1,4 @@
+
+npm init
+npm install (package) --save
+node index.js
